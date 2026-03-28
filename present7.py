@@ -73,7 +73,7 @@ slide = st.sidebar.radio(
         "Title",
         "Aim",
         "Purpose",
-        "Decision Tree Concept",
+        "Bayesian Network Concept",
         "Working Principle",
         "Applications",
         "Advantages"
